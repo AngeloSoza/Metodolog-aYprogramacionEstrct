@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\bin\Debug\net8.0\DiccionarioT.exe
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\bin\Debug\net8.0\DiccionarioT.deps.json
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\bin\Debug\net8.0\DiccionarioT.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\bin\Debug\net8.0\DiccionarioT.dll
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\bin\Debug\net8.0\DiccionarioT.pdb
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.dll
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\refint\DiccionarioT.dll
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.pdb
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\DiccionarioT.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\DiccionarioT\DiccionarioT\DiccionarioT\obj\Debug\net8.0\ref\DiccionarioT.dll
